@@ -37,7 +37,7 @@ const Cast = () => {
                                 alt={name}
                                 style={{ width: 100, height: 150 }}
                             />
-                            <p>{name}</p>
+                            <h3>{name}</h3>
                             <p>Character: {character}</p>
                         </li>
                     ))}
